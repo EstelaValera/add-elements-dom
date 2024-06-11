@@ -9,5 +9,3 @@ document.getElementById("agregar").addEventListener("click", function() {
         alert("Por favor ingrese un elemento válido.");
     }
 });
-
-console.log('Hola');
